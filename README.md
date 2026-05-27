@@ -49,5 +49,15 @@ gtkwave waveform.vcd
 | 0111 | MULTIPLY |
 | 1000 | COMPARE |
 
+## Waveform Output
+
+![Waveform](screenshots/Screenshot%202026-05-26%20234748.png)
+## VS Code
+
+![VS Code](screenshots/Screenshot%202026-05-26%20234913.png)
+
+## Terminal Output
+
+![Terminal](screenshots/Screenshot%202026-05-26%20234844.png)
 ## Author
 Satya Eesa
